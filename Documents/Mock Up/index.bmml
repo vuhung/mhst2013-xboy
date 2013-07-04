@@ -74,9 +74,9 @@
         <icon>GoogleIcon%7Csmall</icon>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Title" x="920" y="276" w="-1" h="-1" measuredW="278" measuredH="43" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Title" x="920" y="276" w="-1" h="-1" measuredW="261" measuredH="43" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Public%20Formular</text>
+        <text>Public%20Formula</text>
       </controlProperties>
     </control>
     <control controlID="29" controlTypeID="com.balsamiq.mockups::List" x="908" y="327" w="306" h="214" measuredW="100" measuredH="126" zOrder="19" locked="false" isInGroup="-1">
