@@ -7,6 +7,8 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="252" y="146" w="151" h="-1" measuredW="66" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>index%26bm%3Bindex.bmml%26bm%3Bindex.bmml%26bm%3Bindex.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22172%2C146%2C323%2C209%22%20href%3D%22index.bmml%22%20alt%3D%22index%22%20id%3D%222%22/%3E</map>
         <text>PasteByMe</text>
       </controlProperties>
     </control>
@@ -130,6 +132,8 @@
     <control controlID="90" controlTypeID="com.balsamiq.mockups::List" x="407" y="294" w="247" h="335" measuredW="100" measuredH="195" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <bold>true</bold>
+        <hrefs>Detail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22327%2C297%2C574%2C318%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%2290%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22327%2C318%2C574%2C339%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%2290%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22327%2C339%2C574%2C360%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%2290%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22327%2C360%2C574%2C381%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%2290%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22327%2C381%2C574%2C402%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%2290%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22327%2C402%2C574%2C423%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%2290%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22327%2C423%2C574%2C444%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%2290%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22327%2C444%2C574%2C465%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%2290%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22327%2C465%2C574%2C486%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%2290%22/%3E%0A</map>
         <text>Formula%201%0AFormula%202%0AFormula%203%0AFormula%204%0AFormula%205%0AFormula%206%0AFormula%207%0AFormula%208%0AFormula%209</text>
       </controlProperties>
     </control>
@@ -140,6 +144,8 @@
     </control>
     <control controlID="97" controlTypeID="com.balsamiq.mockups::Link" x="977" y="98" w="-1" h="-1" measuredW="38" measuredH="19" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Setting%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22897%2C98%2C935%2C117%22%20href%3D%22Personal%2520Page%2520-%2520Setting.bmml%22%20alt%3D%22Personal%20Page%20-%20Setting%22%20id%3D%2297%22/%3E</map>
         <text>Guess</text>
       </controlProperties>
     </control>
@@ -150,6 +156,8 @@
     </control>
     <control controlID="99" controlTypeID="com.balsamiq.mockups::Link" x="893" y="75" w="-1" h="-1" measuredW="38" measuredH="19" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Dashboard%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22813%2C75%2C851%2C94%22%20href%3D%22Personal%2520Page%2520-%2520Dashboard.bmml%22%20alt%3D%22Personal%20Page%20-%20Dashboard%22%20id%3D%2299%22/%3E</map>
         <text>Guess</text>
       </controlProperties>
     </control>
@@ -161,6 +169,8 @@
     </control>
     <control controlID="101" controlTypeID="com.balsamiq.mockups::LinkBar" x="1037" y="87" w="-1" h="-1" measuredW="190" measuredH="19" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>Personal%20Page%20-%20Dashboard%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%2CPersonal%20Page%20-%20Setting%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22957%2C89%2C1021%2C102%22%20href%3D%22Personal%2520Page%2520-%2520Dashboard.bmml%22%20alt%3D%22Personal%20Page%20-%20Dashboard%22%20id%3D%22101%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221039%2C89%2C1083%2C102%22%20href%3D%22Personal%2520Page%2520-%2520Setting.bmml%22%20alt%3D%22Personal%20Page%20-%20Setting%22%20id%3D%22101%22/%3E%0A</map>
         <text>Dashboard%2C%20Setting%2C%20Log%20out</text>
       </controlProperties>
     </control>
@@ -172,6 +182,8 @@
     </control>
     <control controlID="103" controlTypeID="com.balsamiq.mockups::List" x="884" y="292" w="247" h="335" measuredW="100" measuredH="195" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>Detail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%2CDetail%20Page%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml%26bm%3BDetail%20Page.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22804%2C295%2C1051%2C316%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%22103%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22804%2C316%2C1051%2C337%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%22103%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22804%2C337%2C1051%2C358%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%22103%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22804%2C358%2C1051%2C379%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%22103%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22804%2C379%2C1051%2C400%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%22103%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22804%2C400%2C1051%2C421%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%22103%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22804%2C421%2C1051%2C442%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%22103%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22804%2C442%2C1051%2C463%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%22103%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22804%2C463%2C1051%2C484%22%20href%3D%22Detail%2520Page.bmml%22%20alt%3D%22Detail%20Page%22%20id%3D%22103%22/%3E%0A</map>
         <text>Guess%201%27s%20Formula%201%0AGuess%201%27s%20Formula%202%0AGuess%202%27s%20Formula%203%0AGuess%202%27s%20Formula%204%0AGuess%27s%20Formula%205%0AGuess%27s%20Formula%206%0AGuess%27s%20Formula%207%0AGuess%27s%20Formula%208%0AGuess%27s%20Formula%209</text>
       </controlProperties>
     </control>

@@ -7,6 +7,8 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="252" y="146" w="151" h="-1" measuredW="66" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>index%26bm%3Bindex.bmml%26bm%3Bindex.bmml%26bm%3Bindex.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22172%2C146%2C323%2C209%22%20href%3D%22index.bmml%22%20alt%3D%22index%22%20id%3D%222%22/%3E</map>
         <text>PasteByMe</text>
       </controlProperties>
     </control>
@@ -23,6 +25,8 @@
     </control>
     <control controlID="11" controlTypeID="com.balsamiq.mockups::LinkBar" x="1080" y="83" w="-1" h="-1" measuredW="120" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>SignIn%26bm%3BSignIn.bmml%26bm%3BSignIn.bmml%26bm%3BSignIn.bmml%2CSignUp%26bm%3BSignUp.bmml%26bm%3BSignUp.bmml%26bm%3BSignUp.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221000%2C85%2C1049%2C98%22%20href%3D%22SignIn.bmml%22%20alt%3D%22SignIn%22%20id%3D%2211%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221067%2C85%2C1120%2C98%22%20href%3D%22SignUp.bmml%22%20alt%3D%22SignUp%22%20id%3D%2211%22/%3E%0A</map>
         <text>SIGN%20IN%2C%20SIGN%20UP</text>
       </controlProperties>
     </control>

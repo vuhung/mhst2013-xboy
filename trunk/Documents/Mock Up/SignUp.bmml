@@ -7,6 +7,8 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="252" y="146" w="151" h="-1" measuredW="66" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>index%26bm%3Bindex.bmml%26bm%3Bindex.bmml%26bm%3Bindex.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22172%2C146%2C323%2C209%22%20href%3D%22index.bmml%22%20alt%3D%22index%22%20id%3D%222%22/%3E</map>
         <text>PasteByMe</text>
       </controlProperties>
     </control>
@@ -23,6 +25,8 @@
     </control>
     <control controlID="11" controlTypeID="com.balsamiq.mockups::LinkBar" x="1080" y="83" w="-1" h="-1" measuredW="120" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>SignIn%26bm%3BSignIn.bmml%26bm%3BSignIn.bmml%26bm%3BSignIn.bmml%2CSignUp%26bm%3BSignUp.bmml%26bm%3BSignUp.bmml%26bm%3BSignUp.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221000%2C85%2C1049%2C98%22%20href%3D%22SignIn.bmml%22%20alt%3D%22SignIn%22%20id%3D%2211%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221067%2C85%2C1120%2C98%22%20href%3D%22SignUp.bmml%22%20alt%3D%22SignUp%22%20id%3D%2211%22/%3E%0A</map>
         <text>SIGN%20IN%2C%20SIGN%20UP</text>
       </controlProperties>
     </control>
@@ -135,6 +139,8 @@
     <control controlID="65" controlTypeID="com.balsamiq.mockups::Button" x="696" y="376" w="-1" h="-1" measuredW="66" measuredH="27" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
+        <href>index%26bm%3Bindex.bmml%26bm%3Bindex.bmml%26bm%3Bindex.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22616%2C376%2C682%2C403%22%20href%3D%22index.bmml%22%20alt%3D%22index%22%20id%3D%2265%22/%3E</map>
         <text>SignUp</text>
       </controlProperties>
     </control>
@@ -171,11 +177,15 @@
     </control>
     <control controlID="77" controlTypeID="com.balsamiq.mockups::Link" x="696" y="418" w="-1" h="-1" measuredW="105" measuredH="19" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Forgot%20Password%26bm%3BForgot%20Password.bmml%26bm%3BForgot%20Password.bmml%26bm%3BForgot%20Password.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22616%2C418%2C721%2C437%22%20href%3D%22Forgot%2520Password.bmml%22%20alt%3D%22Forgot%20Password%22%20id%3D%2277%22/%3E</map>
         <text>Forgot%20password%3F</text>
       </controlProperties>
     </control>
     <control controlID="78" controlTypeID="com.balsamiq.mockups::Button" x="777" y="376" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>index%26bm%3Bindex.bmml%26bm%3Bindex.bmml%26bm%3Bindex.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22697%2C376%2C761%2C403%22%20href%3D%22index.bmml%22%20alt%3D%22index%22%20id%3D%2278%22/%3E</map>
         <text>Cancel</text>
       </controlProperties>
     </control>

@@ -7,6 +7,8 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="252" y="146" w="151" h="-1" measuredW="66" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>index%26bm%3Bindex.bmml%26bm%3Bindex.bmml%26bm%3Bindex.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22172%2C146%2C323%2C209%22%20href%3D%22index.bmml%22%20alt%3D%22index%22%20id%3D%222%22/%3E</map>
         <text>PasteByMe</text>
       </controlProperties>
     </control>
@@ -160,6 +162,8 @@
     <control controlID="75" controlTypeID="com.balsamiq.mockups::Image" x="671" y="336" w="143" h="132" measuredW="77" measuredH="79" zOrder="44" locked="false" isInGroup="-1"/>
     <control controlID="76" controlTypeID="com.balsamiq.mockups::Button" x="671" y="483" w="143" h="27" measuredW="110" measuredH="27" zOrder="45" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Setting%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22591%2C483%2C734%2C510%22%20href%3D%22Personal%2520Page%2520-%2520Setting.bmml%22%20alt%3D%22Personal%20Page%20-%20Setting%22%20id%3D%2276%22/%3E</map>
         <text>Change%20Avatar</text>
       </controlProperties>
     </control>
@@ -183,6 +187,8 @@
     <control controlID="82" controlTypeID="com.balsamiq.mockups::TextInput" x="1036" y="388" w="139" h="-1" measuredW="79" measuredH="26" zOrder="52" locked="false" isInGroup="-1"/>
     <control controlID="83" controlTypeID="com.balsamiq.mockups::Button" x="919" y="449" w="143" h="27" measuredW="128" measuredH="27" zOrder="53" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Setting%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22839%2C449%2C982%2C476%22%20href%3D%22Personal%2520Page%2520-%2520Setting.bmml%22%20alt%3D%22Personal%20Page%20-%20Setting%22%20id%3D%2283%22/%3E</map>
         <text>Change%20Password</text>
       </controlProperties>
     </control>
@@ -219,6 +225,8 @@
     </control>
     <control controlID="103" controlTypeID="com.balsamiq.mockups::Link" x="977" y="98" w="-1" h="-1" measuredW="38" measuredH="19" zOrder="55" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Setting%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22897%2C98%2C935%2C117%22%20href%3D%22Personal%2520Page%2520-%2520Setting.bmml%22%20alt%3D%22Personal%20Page%20-%20Setting%22%20id%3D%22103%22/%3E</map>
         <text>Guess</text>
       </controlProperties>
     </control>
@@ -229,6 +237,8 @@
     </control>
     <control controlID="105" controlTypeID="com.balsamiq.mockups::Link" x="893" y="75" w="-1" h="-1" measuredW="38" measuredH="19" zOrder="57" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Dashboard%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22813%2C75%2C851%2C94%22%20href%3D%22Personal%2520Page%2520-%2520Dashboard.bmml%22%20alt%3D%22Personal%20Page%20-%20Dashboard%22%20id%3D%22105%22/%3E</map>
         <text>Guess</text>
       </controlProperties>
     </control>
@@ -240,6 +250,8 @@
     </control>
     <control controlID="107" controlTypeID="com.balsamiq.mockups::LinkBar" x="1037" y="87" w="-1" h="-1" measuredW="190" measuredH="19" zOrder="59" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>Personal%20Page%20-%20Dashboard%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%2CPersonal%20Page%20-%20Setting%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22957%2C89%2C1021%2C102%22%20href%3D%22Personal%2520Page%2520-%2520Dashboard.bmml%22%20alt%3D%22Personal%20Page%20-%20Dashboard%22%20id%3D%22107%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221039%2C89%2C1083%2C102%22%20href%3D%22Personal%2520Page%2520-%2520Setting.bmml%22%20alt%3D%22Personal%20Page%20-%20Setting%22%20id%3D%22107%22/%3E%0A</map>
         <text>Dashboard%2C%20Setting%2C%20Log%20out</text>
       </controlProperties>
     </control>
@@ -251,11 +263,15 @@
     </control>
     <control controlID="109" controlTypeID="com.balsamiq.mockups::Button" x="382" y="631" w="-1" h="-1" measuredW="52" measuredH="27" zOrder="61" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Setting%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22302%2C631%2C354%2C658%22%20href%3D%22Personal%2520Page%2520-%2520Setting.bmml%22%20alt%3D%22Personal%20Page%20-%20Setting%22%20id%3D%22109%22/%3E</map>
         <text>Save</text>
       </controlProperties>
     </control>
     <control controlID="110" controlTypeID="com.balsamiq.mockups::Button" x="447" y="631" w="-1" h="-1" measuredW="64" measuredH="27" zOrder="62" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Setting%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22367%2C631%2C431%2C658%22%20href%3D%22Personal%2520Page%2520-%2520Setting.bmml%22%20alt%3D%22Personal%20Page%20-%20Setting%22%20id%3D%22110%22/%3E</map>
         <text>Cancel</text>
       </controlProperties>
     </control>
