@@ -7,6 +7,8 @@
     </control>
     <control controlID="2" controlTypeID="com.balsamiq.mockups::IconLabel" x="254" y="153" w="151" h="-1" measuredW="66" measuredH="63" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>index%26bm%3Bindex.bmml%26bm%3Bindex.bmml%26bm%3Bindex.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22182%2C153%2C333%2C216%22%20href%3D%22index.bmml%22%20alt%3D%22index%22%20id%3D%222%22/%3E</map>
         <text>PasteByMe</text>
       </controlProperties>
     </control>
@@ -142,6 +144,8 @@
     </control>
     <control controlID="66" controlTypeID="com.balsamiq.mockups::Link" x="382" y="292" w="-1" h="-1" measuredW="38" measuredH="19" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Dashboard%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22310%2C292%2C348%2C311%22%20href%3D%22Personal%2520Page%2520-%2520Dashboard.bmml%22%20alt%3D%22Personal%20Page%20-%20Dashboard%22%20id%3D%2266%22/%3E</map>
         <text>Guess</text>
       </controlProperties>
     </control>
@@ -188,7 +192,9 @@
     </control>
     <control controlID="76" controlTypeID="com.balsamiq.mockups::Icon" x="944" y="701" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>DetailPage-Edit%26bm%3BDetailPage-Edit.bmml%26bm%3BDetailPage-Edit.bmml%26bm%3BDetailPage-Edit.bmml</href>
         <icon>WriteIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22872%2C701%2C896%2C725%22%20href%3D%22DetailPage-Edit.bmml%22%20alt%3D%22DetailPage-Edit%22%20id%3D%2276%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="77" controlTypeID="com.balsamiq.mockups::Label" x="943" y="727" w="-1" h="-1" measuredW="24" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
@@ -274,6 +280,8 @@
     </control>
     <control controlID="94" controlTypeID="com.balsamiq.mockups::Link" x="977" y="98" w="-1" h="-1" measuredW="38" measuredH="19" zOrder="57" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Dashboard%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22905%2C98%2C943%2C117%22%20href%3D%22Personal%2520Page%2520-%2520Dashboard.bmml%22%20alt%3D%22Personal%20Page%20-%20Dashboard%22%20id%3D%2294%22/%3E</map>
         <text>Guess</text>
       </controlProperties>
     </control>
@@ -284,6 +292,8 @@
     </control>
     <control controlID="96" controlTypeID="com.balsamiq.mockups::Link" x="893" y="75" w="-1" h="-1" measuredW="38" measuredH="19" zOrder="59" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Personal%20Page%20-%20Setting%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22821%2C75%2C859%2C94%22%20href%3D%22Personal%2520Page%2520-%2520Setting.bmml%22%20alt%3D%22Personal%20Page%20-%20Setting%22%20id%3D%2296%22/%3E</map>
         <text>Guess</text>
       </controlProperties>
     </control>
@@ -295,6 +305,8 @@
     </control>
     <control controlID="98" controlTypeID="com.balsamiq.mockups::LinkBar" x="1037" y="87" w="-1" h="-1" measuredW="190" measuredH="19" zOrder="61" locked="false" isInGroup="-1">
       <controlProperties>
+        <hrefs>Personal%20Page%20-%20Dashboard%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%26bm%3BPersonal%20Page%20-%20Dashboard.bmml%2CPersonal%20Page%20-%20Setting%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%26bm%3BPersonal%20Page%20-%20Setting.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22965%2C89%2C1029%2C102%22%20href%3D%22Personal%2520Page%2520-%2520Dashboard.bmml%22%20alt%3D%22Personal%20Page%20-%20Dashboard%22%20id%3D%2298%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%221047%2C89%2C1091%2C102%22%20href%3D%22Personal%2520Page%2520-%2520Setting.bmml%22%20alt%3D%22Personal%20Page%20-%20Setting%22%20id%3D%2298%22/%3E%0A</map>
         <text>Dashboard%2C%20Setting%2C%20Log%20out</text>
       </controlProperties>
     </control>
