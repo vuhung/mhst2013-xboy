@@ -59,10 +59,6 @@ div#information{
 	border-bottom: 1px dotted #CCCCCC;
 }
 
-div#information label{
-	display: inline !important;
-	width: 50px;
-}
 
 
 input#title{
