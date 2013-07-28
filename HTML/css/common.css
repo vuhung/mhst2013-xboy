@@ -95,3 +95,202 @@ a.link {
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
 }
+
+div.top-area {
+    padding: 20px 0 0;
+    position: relative;
+    z-index: 20;
+}
+
+.top-area div.skeleton {
+    margin: 0;
+    max-width: 1140px;
+    width: 100%;
+}
+
+.skeleton {
+    margin: 0 auto;
+    padding: 0;
+    position: relative;
+    width: 1060px;
+    z-index: 2;
+}
+
+#logo {
+    margin-left: 40px;
+    float: left;
+    position: relative;
+}
+
+#logo a {
+    display: block;
+}
+
+
+#logo img {
+    height: auto;
+    max-width: 100%;
+    width: auto;
+    vertical-align: middle;
+}
+
+.search-form {
+    margin-right: 40px;
+    float: right;
+}
+
+.search-form a.search-control:after {
+    background-image: url("../img/search-icon.gif");
+    background-position: center center;
+    background-repeat: no-repeat;
+    content: "";
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.search-form a.search-control {
+    -moz-box-sizing: border-box;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-radius: 3px 3px 3px 3px;
+    float: right;
+    height: 32px;
+    overflow: hidden;
+    position: relative;
+    text-indent: -999px;
+    width: 32px;
+    z-index: 10;
+}
+
+.search-form #searchform {
+    display: none;
+    float: right;
+    overflow: hidden;
+    position: relative;
+    width: 0;
+    z-index: 20;
+}
+
+#searchform > div {
+    width: 220px;
+}
+
+#searchform label {
+    display: none;
+}
+.form-search label, .form-inline label, .form-search .btn-group, .form-inline .btn-group {
+    display: inline-block;
+}
+
+
+.search-form #searchform input[type="text"] {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    -moz-box-sizing: border-box;
+    border-color: #DDDDDD -moz-use-text-color #DDDDDD #DDDDDD;
+    border-image: none;
+    border-radius: 3px 0 0 3px;
+    border-style: solid none solid solid;
+    border-width: 1px 0 1px 1px;
+    float: left;
+    font-size: 0.9em;
+    height: 32px;
+    margin: 0;
+    overflow: hidden;
+    padding: 0 10px;
+    width: 175px;
+}
+
+.form-search input, .form-inline input, .form-horizontal input, .form-search textarea, .form-inline textarea, .form-horizontal textarea, .form-search select, .form-inline select, .form-horizontal select, .form-search .help-inline, .form-inline .help-inline, .form-horizontal .help-inline, .form-search .uneditable-input, .form-inline .uneditable-input, .form-horizontal .uneditable-input, .form-search .input-prepend, .form-inline .input-prepend, .form-horizontal .input-prepend, .form-search .input-append, .form-inline .input-append, .form-horizontal .input-append {
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+}
+
+.search-form #searchform input[type="submit"] {
+    -moz-box-sizing: border-box;
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #DDDDDD;
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+    float: left;
+    height: 32px;
+    margin-left: -4px;
+    overflow: hidden;
+    position: relative;
+    text-indent: -999px;
+    width: 32px;
+}
+
+.search-form #searchform .search-icon {
+    background-image: url("../img/search-icon.gif");
+    background-position: center center;
+    background-repeat: no-repeat;
+    display: block;
+    float: right;
+    height: 32px;
+    margin-right: 16px;
+    margin-top: -32px;
+    pointer-events: none;
+    position: relative;
+    width: 32px;
+}
+
+ul.top-social-icons {
+    float: right;
+    margin: 40px 0 0;
+    padding: 0;
+    position: relative;
+    z-index: 2;
+}
+
+
+.search-form #searchform input[type="submit"]:after {
+    background-image: url("../img/search-icon.gif");
+    background-position: center center;
+    background-repeat: no-repeat;
+    content: "";
+    display: block;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+ul.top-social-icons li {
+    display: inline-block;
+    line-height: 1;
+    list-style: none outside none;
+    margin: 0 3px;
+}
+
+ul.top-social-icons li.youtube a {
+    background-position: -52px top;
+}
+
+ul.top-social-icons li.google a {
+    background-position: -78px top;
+}
+
+ul.top-social-icons li.twitter a {
+    background-position: -104px top;
+}
+
+
+ul.top-social-icons li.facebook a {
+    background-position: -130px top;
+}
+
+ul.top-social-icons li a {
+    background: url("../img/social-sprite.png") repeat scroll 0 0 transparent;
+    display: block;
+    height: 28px;
+    width: 28px;
+}
