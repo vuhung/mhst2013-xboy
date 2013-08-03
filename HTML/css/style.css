@@ -27,10 +27,10 @@
 	width: 29%;
 }
 
-#editor{
+/*#editor{
 	border: 1px solid;
 	height:250px;
-}
+}*/
 
 .right_menu li{
 	border-top: 1px dotted #CCCCCC;
@@ -49,11 +49,11 @@
 	text-align: left !important;
 }
 
-div#editor textarea{
+/*div#editor span{
 	width: 98%;
-	height: 96%;
+	
 }
-
+*/
 div#information{
 	margin-top: 10px;
 	border-bottom: 1px dotted #CCCCCC;
